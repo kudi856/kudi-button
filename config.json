@@ -1,0 +1,23 @@
+{
+    "Bot": {
+     "Token": "OTYxNDk2MDYzODg4NDY1OTQx.Yk50_Q.T652xsDlC9hunYmXuum292nDa7E",
+     "Owners": ["932340108676452412"],
+     "Prefix": ["r!"],
+     "Durum": "1912",
+     "Status": "dnd"
+    },
+
+    "Server": {
+     "GuildID": "957083770194886697"
+    },
+    
+    "Channels": {
+     "VoiceChannelID": "960609459116339291"
+    },
+
+    "Roles": {
+     "ET": "961495140508237825",
+     "CK": "961495156434022402"
+    }
+
+}
