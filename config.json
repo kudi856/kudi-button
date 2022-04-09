@@ -1,0 +1,23 @@
+{
+    "Bot": {
+     "Token": "", 
+     "Owners": ["932340108676452412"],
+     "Prefix": ["r!"],
+     "Durum": "1912",
+     "Status": "dnd"
+    },
+
+    "Server": {
+     "GuildID": ""
+    },
+    
+    "Channels": {
+     "VoiceChannelID": ""
+    },
+
+    "Roles": {
+     "ET": "",
+     "CK": ""
+    }
+
+}
